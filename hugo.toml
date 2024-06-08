@@ -1,0 +1,7 @@
+baseURL = 'https://gallery.fanello.net/'
+languageCode = 'en-us'
+title = 'Fanello Photo Gallery'
+theme = 'gallery'
+timeout = '15m'
+copyright = 'Copyright 2014 - Adam and Diana Fanello'
+timeZone = 'America/Los_Angeles'

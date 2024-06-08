@@ -1,0 +1,8 @@
+{{ if .Title }}
+  <hgroup>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.Description }}
+      <p>{{ . | safeHTML }}</p>
+    {{ end }}
+  </hgroup>
+{{ end }}

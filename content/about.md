@@ -9,4 +9,4 @@ menu:
 
 Please enjoy select photographs from special occasions.
 
-Adam & Diana Fanello
+- Adam & Diana Fanello

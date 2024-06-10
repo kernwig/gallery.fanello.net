@@ -1,6 +1,6 @@
 ---
-title: Adam & Diana Gallery
-description: ""
+title: "Adam & Diana Gallery"
+description: "Select photographs from special occasions"
 menus:
   main:
     name: Home

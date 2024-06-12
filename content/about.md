@@ -10,3 +10,5 @@ menu:
 Please enjoy select photographs from special occasions.
 
 - Adam & Diana Fanello
+
+[Return to the Fanello Family Home Page](http://fanello.net)

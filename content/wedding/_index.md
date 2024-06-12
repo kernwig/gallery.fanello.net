@@ -9,6 +9,5 @@ description:  |-
     No pictures, but <u><a href="https://www.youtube.com/watch?v=X7UHFBvcYHg">here's VIDEO of the proposal!</a></u> 
   </p>
 
-featured_image: ./Ceremony/0348.JPG
 # sub-galleries on list pages are sorted by date and weight (descending)
 ---

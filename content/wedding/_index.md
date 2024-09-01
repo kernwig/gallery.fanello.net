@@ -1,5 +1,6 @@
 ---
 title: Adam & Diana Wedding
+weight: 1
 description:  |-
   <p>
     On June 28, 2014, Adam Fanello and Diana Marie Scalise married in a late 19th century western themed ceremony.

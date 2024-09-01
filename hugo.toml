@@ -2,7 +2,7 @@ baseURL = 'https://gallery.fanello.net/'
 languageCode = 'en-us'
 title = 'Fanello Family Photo Gallery'
 theme = 'gallery'
-timeout = '15m'
+timeout = '60m'
 copyright = 'Copyright 2014-2024 - Adam and Diana Fanello'
 timeZone = 'America/Los_Angeles'
 

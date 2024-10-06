@@ -1,7 +1,7 @@
 ---
 date: 2024-08-10
 featured_image: PXL_20240810_190904957-EDIT.jpg
-title: Day 8 - Travel Whittier/Anchorage/Denali
+title: Day 8 - Travel Whittier to Denali
 description: |-
   <p>
     You may notice the jump from day 5 to day 8. This is due to Adam joining Diana in illness and missing out

@@ -4,10 +4,6 @@ featured_image: PXL_20240810_190904957-EDIT.jpg
 title: Day 8 - Travel Whittier to Denali
 description: |-
   <p>
-    You may notice the jump from day 5 to day 8. This is due to Adam joining Diana in illness and missing out
-    on Glacier Bay National Park and College Fjord on days 6 and 7. 😕 
-  </p>
-  <p>
     Day 8 we departed the Sapphire Princess for Denali National Park! Our departure was delayed due the train
     engine that was to pull our glass-domed train car failing to start. This gave Adam time to visit the
     ship's doctor one more time for more medication.

@@ -22,6 +22,10 @@ resources:
     title: Tight Quarters
     params:
       description: "Once the salmon swim up the ladder, they land here. Workers sort them by species."
+  - src: PXL_20240806_184229671d.jpg
+    title: Kicking to climb still
+  - src: PXL_20240806_184229672d.jpg
+    title: Five Species of Pacific Salmon
   - src: PXL_20240806_192818667.jpg
     title: Mendenhall Glacier
     params:
@@ -40,7 +44,13 @@ resources:
   - src: PXL_20240806_221252459.jpg
     title: Waterfall
     params:
-      description: "Just a short hike on the Gold Creek Salmon Bake property brought us to this site. 🤩"
+      description: "Just a short hike on the Gold Creek Salmon Bake property brought us to this sight. 🤩"
+  - src: PXL_20240806_221252460d.jpg
+    title: Adam taking the previous picture
+  - src: PXL_20240806_221252461d.jpg
+    title: Old mining equipment
+  - src: PXL_20240806_221252462d.jpg
+    title: Keep out of mine
   - src: PXL_20240806_222235836.MP.jpg
     title: Gold Creek Salmon Bake
   - src: PXL_20240806_235453917.jpg

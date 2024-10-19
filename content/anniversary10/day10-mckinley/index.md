@@ -26,8 +26,8 @@ resources:
       description: "Part of the Denali range, and pretty."
   - src: PXL_20240813_030658038.jpg
     title: Mount Denali!
-  - src:
-    title:
-    params:
-      description: ""
+  - src: ZIMG_1660.JPG
+    title: Mount Denali!
+  - src: ZIMG_1662.JPG
+    title: Next to Denali peek
 ---

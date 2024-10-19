@@ -41,8 +41,12 @@ resources:
       description: "Denali Princess Wilderness Lodge was much larger than our cabin. Too bad we spent so little time in it."
   - src: PXL_20240811_045732593.jpg
     title: View from our room!
-  - src:
-    title:
+  - src: ZIMG_1589.JPG
+    title: Alaskan Huskies training
     params:
-      description: ""
+      description: "Pulling the paying tourists"
+  - src: ZIMG_7258.JPG
+    title: Mamma Moose
+  - src: ZIMG_7259.JPG
+    title: Baby Moose
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2024-08-09
 featured_image: IMG_7196.JPG
-title: Day 9 - College Fjord
+title: Day 7 - College Fjord
 description: |-
   <p>
     You may notice this album skips day 6. This is due to Adam joining Diana in illness and missing out

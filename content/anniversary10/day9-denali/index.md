@@ -54,8 +54,30 @@ resources:
     title: Burn Scar from our lodge
     params:
       description: "About a month before our trip, Denali was closed due to a fire. Even fire burn scars are beautiful in Alaska!"
-  - src:
-    title:
+  - src: ZIMG_1621.JPG
+    title: Caribou
+  - src: ZIMG_1624.JPG
+    title: Caribou
+  - src: ZIMG_1628.JPG
+    title: Willow Ptarmigan
     params:
-      description: ""
+      description: "Alaska state bird"
+  - src: ZIMG_1630.JPG
+    title: Fireweed
+  - src: ZIMG_7276.JPG
+    title: Savage river
+  - src: ZIMG_7274.JPG
+    title: Magpie
+  - src: ZIMG_1633.JPG
+    title: (Red) Squirrel!
+  - src: ZIMG_1642.JPG
+    title: Dahl Sheep
+    params:
+      description: "This is the best shot of a few of these sheep we saw... generally as just white dots."
+  - src: ZIMG_1650.JPG
+    title: Grizzly bear cubs
+  - src: ZIMG_7304.JPG
+    title: Willow Ptarmigan
+    params:
+      description: "Alaska state bird"
 ---

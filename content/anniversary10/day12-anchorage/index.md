@@ -32,8 +32,4 @@ resources:
     title: View from our room at Captain Cook Hotel
     params:
       description: "Weird to see a beach with no human action. There doesn't even appear roads or parking along it, or a premium on beach-front property."
-  - src:
-    title:
-    params:
-      description: ""
 ---

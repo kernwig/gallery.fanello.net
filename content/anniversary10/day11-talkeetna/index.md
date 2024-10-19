@@ -25,28 +25,20 @@ resources:
     title: Funny
     params:
       description: "Sign in the 20320 Alaska Grill restaurant in McKinley Princess Wilderness Lodge"
-  - src:
-    title:
+  - src: ZIMG_1666.JPG
+    title: Denali peak from the Talkeetna river
+  - src: ZIMG_1679.JPG
+    title: Jetboat in the Talkeetna river
+  - src: ZIMG_1685.JPG
+    title: In Devil's Canyon
     params:
-      description: ""
-  - src:
-    title:
+      description: "The driver held the boat in position in the rapids while everyone took photos."
+  - src: ZIMG_1697.JPG
+    title: Black bear on the shore
+  - src: ZIMG_7348.JPG
+    title: Inside the jetboat
+  - src: ZIMG_7366.JPG
+    title: Rapids outside the jetboat
     params:
-      description: ""
-  - src:
-    title:
-    params:
-      description: ""
-  - src:
-    title:
-    params:
-      description: ""
-  - src:
-    title:
-    params:
-      description: ""
-  - src:
-    title:
-    params:
-      description: ""
+      description: "Photos don't do the rapids justice."
 ---

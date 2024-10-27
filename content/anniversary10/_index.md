@@ -1,7 +1,7 @@
 ---
 title: 10 Year Wedding Anniversary
-weight: 2
-description:  |-
+weight: 3
+description: |-
   <p>
     June 28, 2024 was Adam and Diana Fanello's anniversary - <i>ten years</i> already! 😲😍
   </p>

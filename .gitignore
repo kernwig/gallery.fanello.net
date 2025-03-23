@@ -2,7 +2,5 @@
 .hugo_build.lock
 .idea
 hugo_stats.json
-node_modules/
 public/
 resources/
-convert.mjs

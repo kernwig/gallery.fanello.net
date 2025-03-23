@@ -2,7 +2,6 @@
 title: Pacific Coast Road Trip
 weight: 4
 description: |-
-  <h2>🚧 Work in progress! Only 19 out of 24 days so far.<br>Check back later for more! 🏗️</h2>
   <p>
     From December 12, 2024 until January 5, 2025, Adam and Diana embarked on their longest
     road trip ever together. They to explored the culture and sights along the western coastline
